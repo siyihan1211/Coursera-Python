@@ -1,0 +1,7 @@
+8/30
+
+learned about:
+- comparison operators (==,<,>,<=,>=,!=)
+- one-way decisions with if; two-way decisions with if-then-else; nested decisions (if/else inside if); elif
+- indentations are very important in python
+- use try and except to catch errors
